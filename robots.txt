@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apkterbaru.github.io/sitemap.xml
